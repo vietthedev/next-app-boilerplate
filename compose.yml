@@ -9,5 +9,5 @@ services:
       - NODE_ENV=production
       - HOSTNAME=0.0.0.0
     ports:
-      - '127.0.0.1:${PORT-3000}:80'
-      - '[::1]:${PORT-3000}:80'
+      - '127.0.0.1:${PORT-3000}:3000'
+      - '[::1]:${PORT-3000}:3000'
