@@ -20,8 +20,7 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
-RUN sed -i "s/output: undefined/output: 'standalone'/g" ./next.config.js
-
+RUN sed -i "s/output: undefined/output: 'standalone'/" ./next.config.js
 RUN npm run build
 
 FROM base AS runner
