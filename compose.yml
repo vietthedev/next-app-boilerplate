@@ -1,0 +1,12 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: next-app
+    environment:
+      - CI=true
+      - NODE_ENV=production
+    ports:
+      - '127.0.0.1:${PORT-3000}:80'
+      - '[::1]:${PORT-3000}:80'
