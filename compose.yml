@@ -3,6 +3,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      # Uncomment for WSL
+      # network: host
     container_name: next-app
     environment:
       - CI=true
