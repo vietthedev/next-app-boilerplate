@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "cross-env CI=true jest --passWithNoTests",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.10",
