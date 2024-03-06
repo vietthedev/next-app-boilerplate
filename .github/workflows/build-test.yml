@@ -23,7 +23,9 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm pkg delete scripts.prepare
+          npm ci
 
       - name: Build
         run: npm run build
@@ -42,7 +44,9 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm pkg delete scripts.prepare
+          npm ci
 
       - name: Test
         run: npm test
