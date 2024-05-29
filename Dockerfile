@@ -1,4 +1,4 @@
-FROM node:lts-alpine@sha256:2288b63e7fdb570cba7c72401a8331f246e432ba18b9b2d646e6afab773a6a7f AS base
+FROM node:lts-alpine@sha256:928b24aaadbd47c1a7722c563b471195ce54788bf8230ce807e1dd500aec0549 AS base
 
 # Install dependencies only when needed
 FROM base AS deps
