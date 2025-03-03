@@ -31,7 +31,7 @@
     "jest-environment-jsdom": "29.7.0",
     "next": "15.2.0",
     "postcss": "8.5.3",
-    "prettier": "3.5.2",
+    "prettier": "3.5.3",
     "prettier-config-standard": "7.0.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
