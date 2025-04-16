@@ -22,7 +22,7 @@
     "@types/react": "19.1.2",
     "@types/react-dom": "19.1.2",
     "cross-env": "7.0.3",
-    "daisyui": "5.0.20",
+    "daisyui": "5.0.22",
     "eslint": "9.24.0",
     "eslint-config-next": "15.3.0",
     "eslint-config-prettier": "10.1.2",
