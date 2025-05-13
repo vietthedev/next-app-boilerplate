@@ -20,7 +20,7 @@
     "@types/jest": "29.5.14",
     "@types/node": "22.15.17",
     "@types/react": "19.1.4",
-    "@types/react-dom": "19.1.4",
+    "@types/react-dom": "19.1.5",
     "cross-env": "7.0.3",
     "daisyui": "5.0.35",
     "eslint": "9.26.0",
@@ -48,6 +48,6 @@
   },
   "overrides": {
     "@types/react": "19.1.4",
-    "@types/react-dom": "19.1.4"
+    "@types/react-dom": "19.1.5"
   }
 }
