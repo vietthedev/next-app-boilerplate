@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "husky": "9.1.7",
-    "lint-staged": "16.1.5"
+    "lint-staged": "16.1.6"
   },
   "engines": {
     "node": "22.19.0"
