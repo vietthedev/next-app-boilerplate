@@ -44,7 +44,7 @@
     "lint-staged": "16.2.0"
   },
   "engines": {
-    "node": "22.19.0"
+    "node": "22.20.0"
   },
   "overrides": {
     "@types/react": "19.1.13",
