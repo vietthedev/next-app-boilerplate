@@ -21,7 +21,7 @@
     "@types/node": "22.18.7",
     "@types/react": "19.1.15",
     "@types/react-dom": "19.1.9",
-    "cross-env": "10.0.0",
+    "cross-env": "10.1.0",
     "daisyui": "5.1.25",
     "eslint": "9.36.0",
     "eslint-config-next": "15.5.4",
