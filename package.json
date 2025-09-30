@@ -19,7 +19,7 @@
     "@testing-library/user-event": "14.6.1",
     "@types/jest": "30.0.0",
     "@types/node": "22.18.7",
-    "@types/react": "19.1.15",
+    "@types/react": "19.1.16",
     "@types/react-dom": "19.1.9",
     "cross-env": "10.1.0",
     "daisyui": "5.1.25",
@@ -47,7 +47,7 @@
     "node": "22.20.0"
   },
   "overrides": {
-    "@types/react": "19.1.15",
+    "@types/react": "19.1.16",
     "@types/react-dom": "19.1.9"
   }
 }
