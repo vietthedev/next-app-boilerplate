@@ -1,5 +1,4 @@
 .git
-.husky
 .next
 .dockerignore
 Dockerfile
