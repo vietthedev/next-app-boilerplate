@@ -1,9 +1,9 @@
-import { render } from '@testing-library/react'
+import { render } from "@testing-library/react";
 
-import Home from '@/src/app/page'
+import Home from "@/src/app/page";
 
 describe(Home.name, () => {
-  it('can render', () => {
-    render(<Home />)
-  })
-})
+	it("can render", () => {
+		render(<Home />);
+	});
+});
