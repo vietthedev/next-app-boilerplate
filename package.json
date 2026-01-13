@@ -34,7 +34,7 @@
 		"@vitejs/plugin-react": "5.1.2",
 		"jsdom": "27.4.0",
 		"lefthook": "2.0.13",
-		"vite-tsconfig-paths": "6.0.3",
+		"vite-tsconfig-paths": "6.0.4",
 		"vitest": "4.0.16"
 	},
 	"engines": {
