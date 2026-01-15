@@ -35,7 +35,7 @@
 		"jsdom": "27.4.0",
 		"lefthook": "2.0.14",
 		"vite-tsconfig-paths": "6.0.4",
-		"vitest": "4.0.16"
+		"vitest": "4.0.17"
 	},
 	"engines": {
 		"node": "24.13.0"
