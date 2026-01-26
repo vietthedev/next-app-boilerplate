@@ -30,7 +30,7 @@
 		"typescript": "5.9.3"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.3.11",
+		"@biomejs/biome": "2.3.12",
 		"@vitejs/plugin-react": "5.1.2",
 		"jsdom": "27.4.0",
 		"lefthook": "2.0.15",
