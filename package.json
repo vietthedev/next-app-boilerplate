@@ -20,7 +20,7 @@
 		"@types/react": "19.2.18",
 		"@types/react-dom": "19.2.4",
 		"cross-env": "10.1.0",
-		"daisyui": "5.7.16",
+		"daisyui": "5.7.19",
 		"next": "16.3.1",
 		"postcss": "8.5.26",
 		"react": "19.2.8",
