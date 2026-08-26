@@ -18,7 +18,7 @@
 		"@testing-library/user-event": "14.6.6",
 		"@types/node": "24.13.3",
 		"@types/react": "19.2.18",
-		"@types/react-dom": "19.2.4",
+		"@types/react-dom": "19.2.5",
 		"cross-env": "10.1.0",
 		"daisyui": "5.7.20",
 		"next": "16.3.2",
@@ -42,6 +42,6 @@
 	},
 	"overrides": {
 		"@types/react": "19.2.18",
-		"@types/react-dom": "19.2.4"
+		"@types/react-dom": "19.2.5"
 	}
 }
