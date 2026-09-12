@@ -17,14 +17,14 @@
 		"@testing-library/react": "16.3.3",
 		"@testing-library/user-event": "14.6.7",
 		"@types/node": "24.13.3",
-		"@types/react": "19.2.18",
-		"@types/react-dom": "19.2.7",
+		"@types/react": "19.3.0",
+		"@types/react-dom": "19.3.0",
 		"cross-env": "10.1.0",
 		"daisyui": "5.7.32",
 		"next": "16.3.4",
 		"postcss": "8.5.28",
-		"react": "19.2.8",
-		"react-dom": "19.2.8",
+		"react": "19.3.0",
+		"react-dom": "19.3.0",
 		"tailwindcss": "4.3.3",
 		"ts-node": "10.9.2",
 		"typescript": "6.0.3"
@@ -41,7 +41,7 @@
 		"node": "24.21.0"
 	},
 	"overrides": {
-		"@types/react": "19.2.18",
-		"@types/react-dom": "19.2.7"
+		"@types/react": "19.3.0",
+		"@types/react-dom": "19.3.0"
 	}
 }
