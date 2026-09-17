@@ -33,7 +33,7 @@
 		"@biomejs/biome": "2.5.13",
 		"@vitejs/plugin-react": "6.1.1",
 		"jsdom": "30.0.1",
-		"lefthook": "2.1.12",
+		"lefthook": "2.1.14",
 		"vite-tsconfig-paths": "6.1.1",
 		"vitest": "5.0.0"
 	},
