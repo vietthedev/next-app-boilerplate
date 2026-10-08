@@ -22,7 +22,7 @@
 		"cross-env": "10.1.0",
 		"daisyui": "5.7.47",
 		"next": "16.3.8",
-		"postcss": "8.5.28",
+		"postcss": "8.5.29",
 		"react": "19.3.0",
 		"react-dom": "19.3.0",
 		"tailwindcss": "4.3.3",
