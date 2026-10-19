@@ -21,7 +21,7 @@
 		"@types/react-dom": "19.3.0",
 		"cross-env": "10.1.0",
 		"daisyui": "5.7.50",
-		"next": "16.4.1",
+		"next": "16.4.2",
 		"postcss": "8.5.30",
 		"react": "19.3.1",
 		"react-dom": "19.3.1",
